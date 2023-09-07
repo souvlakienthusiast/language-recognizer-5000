@@ -1,0 +1,2 @@
+docx==0.8.11
+Unidecode==1.3.6
